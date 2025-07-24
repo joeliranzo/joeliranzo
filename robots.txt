@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://joeliranzo.dev/sitemap.xml
+
+# Disallow common non-content directories
+Disallow: /node_modules/
+Disallow: /.git/
+Disallow: /dist/
+Disallow: /.vscode/
+Disallow: /.idea/
+
+# Allow specific files
+Allow: /styles.css
+Allow: /script.js
+Allow: /manifest.json

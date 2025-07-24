@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://joeliranzo.com/</loc>
+    <lastmod>2025-01-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://joeliranzo.com/?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://joeliranzo.com/?lang=en"/>
+  </url>
+  <url>
+    <loc>https://joeliranzo.com/#about</loc>
+    <lastmod>2025-01-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://joeliranzo.com/#about?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://joeliranzo.com/#about?lang=en"/>
+  </url>
+  <url>
+    <loc>https://joeliranzo.com/#skills</loc>
+    <lastmod>2025-01-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://joeliranzo.com/#skills?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://joeliranzo.com/#skills?lang=en"/>
+  </url>
+  <url>
+    <loc>https://joeliranzo.com/#experience</loc>
+    <lastmod>2025-01-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://joeliranzo.com/#experience?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://joeliranzo.com/#experience?lang=en"/>
+  </url>
+  <url>
+    <loc>https://joeliranzo.com/#projects</loc>
+    <lastmod>2025-01-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://joeliranzo.com/#projects?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://joeliranzo.com/#projects?lang=en"/>
+  </url>
+  <url>
+    <loc>https://joeliranzo.com/#contact</loc>
+    <lastmod>2025-01-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://joeliranzo.com/#contact?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://joeliranzo.com/#contact?lang=en"/>
+  </url>
+</urlset>

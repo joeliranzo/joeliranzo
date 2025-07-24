@@ -1,0 +1,35 @@
+{
+  "name": "Joel Liranzo Rosario - CEO & Founder DeepThinking",
+  "short_name": "Joel Liranzo",
+  "description": "Portfolio profesional de Joel Liranzo Rosario - CEO & Founder DeepThinking, Software Engineer con 10+ años de experiencia en Rust, Elixir, Go, React, AWS y Azure",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#667eea",
+  "theme_color": "#667eea",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/667eea/ffffff?text=JI",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/667eea/ffffff?text=JI",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["portfolio", "business", "education"],
+  "screenshots": [
+    {
+      "src": "https://via.placeholder.com/1280x720/667eea/ffffff?text=Portfolio+Screenshot",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide"
+    }
+  ]
+}

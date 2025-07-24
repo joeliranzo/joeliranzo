@@ -1,0 +1,12 @@
+{
+  "projects": {
+    "default": "joeliranzo"
+  },
+  "targets": {
+    "joeliranzo": {
+      "hosting": {
+        "portfolio": ["joeliranzo"]
+      }
+    }
+  }
+}

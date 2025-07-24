@@ -1,0 +1,52 @@
+{
+  "name": "joel-liranzo-portfolio",
+  "version": "1.0.0",
+  "description": "Portafolio personal de Joel Liranzo Rosario - Desarrollador Full Stack",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --port=3000 --open=/",
+    "build": "npm run minify-css && npm run minify-js",
+    "minify-css": "cleancss -o dist/styles.min.css styles.css",
+    "minify-js": "uglifyjs script.js -o dist/script.min.js",
+    "deploy": "firebase deploy",
+    "serve": "firebase serve",
+    "dev": "live-server --port=3000 --watch=. --open=/",
+    "firebase:init": "firebase init hosting",
+    "firebase:login": "firebase login"
+  },
+  "keywords": [
+    "portfolio",
+    "desarrollador",
+    "full-stack",
+    "dotnet",
+    "react",
+    "python",
+    "azure",
+    "javascript",
+    "web-development",
+    "dominican-republic"
+  ],
+  "author": {
+    "name": "Joel Liranzo Rosario",
+    "email": "joel.liranzo.rosario@gmail.com",
+    "url": "https://joelliranzo.dev"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joelliranzo/portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joelliranzo/portfolio/issues"
+  },
+  "homepage": "https://joelliranzo.dev",
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "clean-css-cli": "^5.6.2",
+    "uglify-js": "^3.17.4",
+    "firebase-tools": "^13.0.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
