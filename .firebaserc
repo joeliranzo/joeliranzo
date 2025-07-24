@@ -1,11 +1,11 @@
 {
   "projects": {
-    "default": "joeliranzo"
+    "default": "joeliranzo-2e7aa"
   },
   "targets": {
-    "joeliranzo": {
+    "joeliranzo-2e7aa": {
       "hosting": {
-        "portfolio": ["joeliranzo"]
+        "portfolio": ["joeliranzo-2e7aa"]
       }
     }
   }
